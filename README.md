@@ -1,2 +1,2 @@
-# TFTP-Protocol
+# TFTP
 Client side
